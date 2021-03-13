@@ -1,0 +1,44 @@
+.reactBox__icons {
+    display: flex;
+    background: #fff;
+    border: 1px solid #e4e6eb;
+    border-radius: 50px;
+}
+
+.reactBox__icon {
+    position: relative;
+    padding: 5px;
+}
+
+.reactBox__icon img {
+    width: 35px;
+    height: 35px;
+    transition: .3s;
+}
+
+.reactBox__icon:hover img {
+    transform: scale(1.3);
+}
+
+.reactBox__icon span {
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    display: inline-block;
+    transform: translateX(-50%);
+    color: #ffffffe6;
+    background: #000000b3;
+    font-weight: 600;
+    padding: 3px 6px;
+    font-size: 12px;
+    border-radius: 50px;
+    visibility: hidden;
+    opacity: 0;
+    transition: .3s;
+}
+
+.reactBox__icon:hover span {
+    top: -25px;
+    visibility: visible;
+    opacity: 1;
+}

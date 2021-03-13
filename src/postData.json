@@ -1,0 +1,82 @@
+[
+    {   
+        "id": 1,
+        "author" : "Naruto Uzumaki",
+        "authorAvatar" : "https://i.ibb.co/SP4TFS7/naruto.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/dbBrs5j/naruto-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 2,
+        "author" : "Hōtarō Oreki",
+        "authorAvatar" : "https://i.ibb.co/bRKpPZx/oreki.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/6Z86Rp8/oreki-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 3,
+        "author" : "Asta",
+        "authorAvatar" : "https://i.ibb.co/rw9jKWH/asta.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/rFZwmGW/asta-post.png",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 4,
+        "author" : "Tanjiro Kamado",
+        "authorAvatar" : "https://i.ibb.co/f1Vsy2m/tanjiro.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/YRYHTJS/tanjiro-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 5,
+        "author" : "Chiyo Sakura",
+        "authorAvatar" : "https://i.ibb.co/ySdYGkd/chiyo.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/5k3M2Mz/chiyo-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 6,
+        "author" : "Monkey D. Luffy",
+        "authorAvatar" : "https://i.ibb.co/g6zS2WX/luffy.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/kBh9FVH/luffy-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 7,
+        "author" : "Kirigaya Kazuto",
+        "authorAvatar" : "https://i.ibb.co/nPnhv7h/kazuto.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/WD2m1NH/kazuto-post.png",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 8,
+        "author" : "Izuku Midoriya",
+        "authorAvatar" : "https://i.ibb.co/Wgdd9VS/midoriya.png",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/2nH6zmL/midoriya-post.png",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 9,
+        "author" : "Yuu Otosaka",
+        "authorAvatar" : "https://i.ibb.co/1mhSTH6/otosaka.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/J7C8wkS/otosaka-post.jpg",
+        "imgAlt" : "Scenery"
+    },
+    {   
+        "id": 10,
+        "author" : "Akihito Kanbara",
+        "authorAvatar" : "https://i.ibb.co/h28jL2k/akihito.jpg",
+        "authorProfile" : "https://github.com/Iamparves",
+        "postImg" : "https://i.ibb.co/7zDpVGF/akihito-post.jpg",
+        "imgAlt" : "Scenery"
+    }
+]
