@@ -37,8 +37,11 @@ const ReactBox = (props) => {
                 case 'Sad':
                     reactIcon = Sad;
                     break;
+                case 'Angry':
+                    reactIcon = Angry;
+                    break;
                 default:
-                    reactIcon = Angry
+                    reactIcon = ''
             }
             setReactionIcon(reactIcon, clickedIcon)
         }

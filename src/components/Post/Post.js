@@ -21,6 +21,8 @@ const Post = (props) => {
         }, 200)
     }
 
+    console.log(reaction.isReacted ? reaction.iconName.toLowerCase() : '')
+
     return (
         <div className="card">
             <div className="card__head">
@@ -35,7 +37,9 @@ const Post = (props) => {
                 </div>
             </div>
             <div className="card__footer">
-                <button className={`react__btn ${disabled ? 'disable' : ''}`} onClick={() => { handleReactBtn(); toggleDisable() }}><img src={reaction.icon} alt="React" /> Like</button>
+                <button className={`react__btn ${disabled ? 'disable' : ''} ${reaction.isReacted ? reaction.iconName.toLowerCase() : ''}`} onClick={() => { handleReactBtn(); toggleDisable() }}>
+                    <img src={reaction.icon} alt="React" /> {(reaction.isReacted && reaction.iconName) || 'Like'}
+                </button>
                 <ReactBox reaction={reaction} setReactionIcon={setReactionIcon} disabled={disabled} toggleDisable={toggleDisable} />
                 <button className="comment__btn"><img src={Comment} alt="Comment" /> Comment</button>
                 <button className="share__btn"><img src={Share} alt="Share" /> Share</button>

@@ -64,6 +64,25 @@
     transform: scale(.95);
 }
 
+.react__btn.like {
+    color: rgb(32, 120, 244);
+}
+
+.react__btn.love {
+    color: rgb(243, 62, 88);
+}
+
+.react__btn.care,
+.react__btn.haha,
+.react__btn.wow,
+.react__btn.sad {
+    color: rgb(247, 177, 37);
+}
+
+.react__btn.angry {
+    color: rgb(233, 113, 15);
+}
+
 .card__footer>button img {
     height: 20px;
     width: 20px;
