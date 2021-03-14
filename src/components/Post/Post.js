@@ -21,8 +21,6 @@ const Post = (props) => {
         }, 200)
     }
 
-    console.log(reaction.isReacted ? reaction.iconName.toLowerCase() : '')
-
     return (
         <div className="card">
             <div className="card__head">
