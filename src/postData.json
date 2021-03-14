@@ -2,81 +2,81 @@
     {   
         "id": 1,
         "author" : "Naruto Uzumaki",
-        "authorAvatar" : "https://i.ibb.co/SP4TFS7/naruto.jpg",
+        "authorAvatar" : "https://i.ibb.co/HD3K9mb/naruto.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/dbBrs5j/naruto-post.jpg",
+        "postImg" : "https://i.ibb.co/vB3H9PN/naruto-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 2,
         "author" : "Hōtarō Oreki",
-        "authorAvatar" : "https://i.ibb.co/bRKpPZx/oreki.jpg",
+        "authorAvatar" : "https://i.ibb.co/RS5ptKd/oreki.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/6Z86Rp8/oreki-post.jpg",
+        "postImg" : "https://i.ibb.co/fvRZM8z/oreki-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 3,
         "author" : "Asta",
-        "authorAvatar" : "https://i.ibb.co/rw9jKWH/asta.jpg",
+        "authorAvatar" : "https://i.ibb.co/mbD0Yb7/asta.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/rFZwmGW/asta-post.png",
+        "postImg" : "https://i.ibb.co/N9Q5tTN/asta-post.png",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 4,
         "author" : "Tanjiro Kamado",
-        "authorAvatar" : "https://i.ibb.co/f1Vsy2m/tanjiro.jpg",
+        "authorAvatar" : "https://i.ibb.co/sR2RZGK/tanjiro.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/YRYHTJS/tanjiro-post.jpg",
+        "postImg" : "https://i.ibb.co/CJCPpw3/tanjiro-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 5,
         "author" : "Chiyo Sakura",
-        "authorAvatar" : "https://i.ibb.co/ySdYGkd/chiyo.jpg",
+        "authorAvatar" : "https://i.ibb.co/8j18mV8/chiyo.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/5k3M2Mz/chiyo-post.jpg",
+        "postImg" : "https://i.ibb.co/F05KCv2/chiyo-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 6,
         "author" : "Monkey D. Luffy",
-        "authorAvatar" : "https://i.ibb.co/g6zS2WX/luffy.jpg",
+        "authorAvatar" : "https://i.ibb.co/cDy5FBM/luffy.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/kBh9FVH/luffy-post.jpg",
+        "postImg" : "https://i.ibb.co/3WHJZdq/luffy-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 7,
         "author" : "Kirigaya Kazuto",
-        "authorAvatar" : "https://i.ibb.co/nPnhv7h/kazuto.jpg",
+        "authorAvatar" : "https://i.ibb.co/HNSf7wG/kazuto.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/WD2m1NH/kazuto-post.png",
+        "postImg" : "https://i.ibb.co/CVdNkFf/kazuto-post.png",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 8,
         "author" : "Izuku Midoriya",
-        "authorAvatar" : "https://i.ibb.co/Wgdd9VS/midoriya.png",
+        "authorAvatar" : "https://i.ibb.co/W0CCgVw/midoriya.png",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/2nH6zmL/midoriya-post.png",
+        "postImg" : "https://i.ibb.co/ZcW0KHG/midoriya-post.png",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 9,
         "author" : "Yuu Otosaka",
-        "authorAvatar" : "https://i.ibb.co/1mhSTH6/otosaka.jpg",
+        "authorAvatar" : "https://i.ibb.co/rZQjp1g/otosaka.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/J7C8wkS/otosaka-post.jpg",
+        "postImg" : "https://i.ibb.co/MgBy7pT/otosaka-post.jpg",
         "imgAlt" : "Scenery"
     },
     {   
         "id": 10,
         "author" : "Akihito Kanbara",
-        "authorAvatar" : "https://i.ibb.co/h28jL2k/akihito.jpg",
+        "authorAvatar" : "https://i.ibb.co/sHyZfMR/akihito.jpg",
         "authorProfile" : "https://github.com/Iamparves",
-        "postImg" : "https://i.ibb.co/7zDpVGF/akihito-post.jpg",
+        "postImg" : "https://i.ibb.co/r4BmrV4/akihito-post.jpg",
         "imgAlt" : "Scenery"
     }
 ]
