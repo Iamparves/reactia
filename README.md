@@ -6,6 +6,8 @@
 - [x] CSS
 - [x] JS (React)
 
-Icons are used as SVG icon (src/img) and posts data loaded from postData json file in the src folder
-
 ### Live Link: [Reactia](https://reactia.netlify.app/)
+
+- [ ] Icons are used as SVG icon `src/img/react`
+- [ ] Posts data loaded from postData json file `src/postData.json`
+- [ ] All images are also available in the src folder `src/img/anime_characters`
